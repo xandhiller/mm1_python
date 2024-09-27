@@ -28,3 +28,6 @@ At the end of each notebook are questions. There will be cells below the questio
 
 The reason for the bundling of questions with examples in the same notebooks is so that functions can be written by instructors, who can then get students to call those functions to answer questions. This will allow instructors to patch any programming difficulties with an assistive function --  allowing students to focus on the mathematics, rather than the programming. 
 
+## Links to binder
+
+1. Python Basics [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/evenhuis/maths_notebooks/master?filepath=00_Python_Basics.ipynb)
